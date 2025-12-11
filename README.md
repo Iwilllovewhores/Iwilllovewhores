@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 <img src="https://skillicons.dev/icons?i=docker,git,windows&theme=dark" />
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,&theme=dark" />
-<img src="https://skillicons.dev/icons?i=unity,blender,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unity,discord,blender,bash&theme=dark" />
 </div>
 
 ---
