@@ -29,10 +29,9 @@
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,lua,cs,robloxstudio&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,&theme=dark" />
 </div>
 
 ---
